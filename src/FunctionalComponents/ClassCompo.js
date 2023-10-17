@@ -3,7 +3,7 @@ class ClassComponent extends React.Component{
     render(){
         return(
             <div>
-                <h1>This is a class Component classComponent</h1>
+                <h4>This is a class Component classComponent</h4>
             </div>
             );
     }    
